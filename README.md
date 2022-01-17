@@ -1,2 +1,2 @@
-# Karthisci
+# C Program
 Learning
